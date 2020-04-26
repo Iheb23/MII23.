@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Documents/mii23-master/build-flying-plane-sdl-animation-Unnamed-Debug/CMakeFiles/MII.dir
+C:/Users/LENOVO/Documents/mii23-master/build-flying-plane-sdl-animation-Unnamed-Debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Documents/mii23-master/build-flying-plane-sdl-animation-Unnamed-Debug/CMakeFiles/rebuild_cache.dir
